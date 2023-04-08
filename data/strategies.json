@@ -1,0 +1,128 @@
+[
+    {
+        "name": "MeanReversion",
+        "market": "Binance",
+        "marketIcon": "binance",
+        "markets": [
+            {
+                "name": "BTCUSDT",
+                "base": "BTC",
+                "quote": "USDT"
+            },
+            {
+                "name": "OPUSDT",
+                "base": "OP",
+                "quote": "USDT"
+            },
+            {
+                "name": "ENJUSDT",
+                "base": "ENJ",
+                "quote": "USDT"
+            },
+            {
+                "name": "ATAUSDT",
+                "base": "ATA",
+                "quote": "USDT"
+            }
+        ]
+    },
+    {
+        "name": "MeanReversion",
+        "market": "pepperstoneuk",
+        "marketIcon": "pepperstoneuk",
+        "markets": [
+            {
+                "name": "EURUSD",
+                "base": "EUR",
+                "quote": "USD"
+            },
+            {
+                "name": "GBPUSD",
+                "base": "GBP",
+                "quote": "USD"
+            },
+            {
+                "name": "USDJPY",
+                "base": "USD",
+                "quote": "JPY"
+            },
+            {
+                "name": "AUDUSD",
+                "base": "AUD",
+                "quote": "USD"
+            },
+            {
+                "name": "USDCAD",
+                "base": "USD",
+                "quote": "CAD"
+            },
+            {
+                "name": "XAUUSD",
+                "base": "XAU",
+                "quote": "USD"
+            },
+            {
+                "name": "XAGUSD",
+                "base": "XAG",
+                "quote": "USD"
+            },
+            {
+                "name": "NatGas",
+                "base": "NatGas",
+                "quote": "USD"
+            },
+            {
+                "name": "SpotBrent",
+                "base": "SpotBrent",
+                "quote": "USD"
+            },
+            {
+                "name": "SpotCrude",
+                "base": "SpotCrude",
+                "quote": "USD"
+            }
+        ]
+    },
+    {
+        "name": "MeanReversion",
+        "market": "roboforex",
+        "marketIcon": "roboforex",
+        "markets": [
+            {
+                "name": "EURUSD",
+                "base": "EUR",
+                "quote": "USD"
+            },
+            {
+                "name": "GBPUSD",
+                "base": "GBP",
+                "quote": "USD"
+            },
+            {
+                "name": "USDJPY",
+                "base": "USD",
+                "quote": "JPY"
+            },
+            {
+                "name": "AUDUSD",
+                "base": "AUD",
+                "quote": "USD"
+            },
+            {
+                "name": "USDCAD",
+                "base": "USD",
+                "quote": "CAD"
+            },
+            {
+                "name": "XAUUSD",
+                "base": "XAU",
+                "quote": "USD"
+            },
+            {
+                "name": "XAGUSD",
+                "base": "XAG",
+                "quote": "USD"
+            }
+        ]
+    }
+]
